@@ -1,0 +1,13 @@
+h1, h2, h3 {
+  font-family:'Courier New', Courier, monospace;
+  color: burlywood;
+}
+
+p, ol, ul{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: brown;
+}
+
+* {
+  background-color: beige;
+}
